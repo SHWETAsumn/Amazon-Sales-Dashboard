@@ -1,0 +1,17 @@
+Business Requirement:-
+
+Objective: The primary objective of the Amazon Sales Analysis Report is to provide comprehensive insights into the sales performance of products listed on Amazon. 
+           This report aims to help stakeholders understand sales trends, identify top-performing products, and make data-driven decisions to optimize sales strategies and improve overall business performance.
+
+Scope: The report will cover the following key areas:
+
+Sales Performance: Analysis of total sales, revenue, and growth trends over specified periods.
+Product Analysis: Identification of top-selling products, categories, and their contribution to overall sales.
+Customer Insights: Analysis of customer demographics, purchasing behavior, and feedback.
+Market Trends: Examination of market trends and their impact on sales.
+Competitor Analysis: Comparison of sales performance with key competitors.
+
+Deliverables:
+A detailed Power BI report (.pbix file) with interactive dashboards and visualizations.
+Monthly and quarterly sales performance summaries.
+Insights and recommendations for improving sales strategies.
